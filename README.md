@@ -14,5 +14,5 @@ ArcGIS Pro • QGIS • Google Earth Engine • Power BI • R • ENVI • Mapb
 
 ## 📫 Contact Me
 
-- ✉️ Email: samuel.udofia@ncdc.gov.ng
-- 🌐 LinkedIn: [Your Profile Link]
+- ✉️ Email: ubongsam@gmail.com
+- 🌐 LinkedIn:www.linkedin.com/in/samueludofia8620
